@@ -1,0 +1,17 @@
+[04/Mar/2020:07:01:47] (ℹ️): WordPress Instance Info:
+[04/Mar/2020:07:01:47] (ℹ️): Home URL : http://localhost
+[04/Mar/2020:07:01:47] (ℹ️): Site URL : http://localhost
+[04/Mar/2020:07:01:47] (ℹ️): WordPress Version : 5.3.2
+[04/Mar/2020:07:01:47] (ℹ️): Onboarding Version : 1.7.12
+[04/Mar/2020:07:01:47] (ℹ️): Multisite : No
+[04/Mar/2020:07:01:47] (ℹ️): Server Info : Apache/2.4.18 (Ubuntu)
+[04/Mar/2020:07:01:47] (ℹ️): PHP Version : 7.0.33-0ubuntu0.16.04.12
+[04/Mar/2020:07:01:47] (ℹ️): HTTPS : No
+[04/Mar/2020:07:01:47] (ℹ️): PHP Max Execution Time : 30
+[04/Mar/2020:07:01:47] (ℹ️): PHP Max Input Vars : 1000
+[04/Mar/2020:07:01:47] (ℹ️): Max Upload Size : 10485760
+[04/Mar/2020:07:01:47] (ℹ️): Plugins:
+[04/Mar/2020:07:01:47] (ℹ️): [PLUGIN] Max upload filesize : v1.1.0 (Yinlong)
+[04/Mar/2020:07:01:47] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.2 (Themeisle)
+[04/Mar/2020:07:01:47] (ℹ️): [PLUGIN] WooCommerce : v3.9.2 (Automattic)
+[04/Mar/2020:07:01:47] (ℹ️): [PLUGIN] WPForms Lite : v1.5.8.2 (WPForms)
