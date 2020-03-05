@@ -23,7 +23,7 @@
 define( 'DB_NAME','succulents' );
 
 /** MySQL database username */
-define( 'DB_USER', 'succulents_user' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'password' );
